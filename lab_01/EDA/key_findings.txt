@@ -1,0 +1,20 @@
+Average caption length (first 10%): 54.7 chars
+Average caption length (last 10%):  56.1 chars
+Interpretation: higher average suggests longer captions in that region.
+
+Short comments (<=20 chars) share: 14.45%
+Interpretation: Higher % implies many brief/emoji-style comments.
+
+Top minutes with most timecode mentions (minute: mentions):
+- 0: 4
+- 3: 4
+- 4: 4
+- 1: 2
+- 10: 2
+- 6: 2
+- 5: 1
+- 2: 1
+- 7: 1
+- 11: 1
+
+Interpretation: spikes likely correspond to notable moments in the video.

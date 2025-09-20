@@ -1,0 +1,32 @@
+Total comments: 3148
+
+Columns & unique counts:
+- comment_id: 3148 unique
+- parent_id: 131 unique
+- author: 2668 unique
+- text: 3114 unique
+- published: 7 unique
+- like_count: 71 unique
+- is_top_level: 0 unique
+- published_dt: 7 unique
+
+Missing values:
+comment_id         0
+parent_id          0
+author             0
+text               0
+published          0
+like_count         0
+is_top_level    3148
+published_dt       0
+dtype: int64
+
+Sample rows:
+                                             comment_id                   parent_id                author  ... like_count  is_top_level  published_dt
+1439                         Ugw3IrWWS5iYTPqMiK94AaABAg                        root      @markthintie5132  ...          0           NaN    2024-09-02
+1459                         UgzAljBUJ4cWmDx7ID14AaABAg                        root  @haikimhairsalon6094  ...          0           NaN    2024-09-02
+90                           UgwM2z7BUkNBtU7qwgR4AaABAg                        root              @DreiK96  ...          0           NaN    2024-09-02
+1835                         UgxAjMTo6oCJPnP5CJ54AaABAg                        root              @40Burak  ...          0           NaN    2024-09-02
+3054  UgziNt8_Cx8IgpaiU1F4AaABAg.A6-C1NKzHMZA6HSLz52i8u  UgziNt8_Cx8IgpaiU1F4AaABAg      @pranaypatil4086  ...          0           NaN    2024-09-02
+
+[5 rows x 8 columns]
