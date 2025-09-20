@@ -1,0 +1,2 @@
+Caption TTR: 0.0914
+Comment TTR: 0.1003

@@ -1,0 +1,6 @@
+Profiled files and noted structure ✅
+Parsed comments (CSV and optional TXT blocks) ✅
+Parsed captions (.vtt) and built sentence list ✅
+Normalized, tokenized, stopword-removed, lemmatized ✅
+Saved cleaned data: outputs/CLEAN/cleaned_comments.csv, cleaned_captions.csv ✅
+Generated EDA visuals in outputs/EDA at 300 DPI ✅
