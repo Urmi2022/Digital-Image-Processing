@@ -1,0 +1,4 @@
+eps,min_samples,clusters,noise_points
+0.3,5,13,2934
+0.5,5,13,2934
+0.7,5,13,2934
