@@ -1,0 +1,66 @@
+support,itemsets,length
+0.2558139534883721,frozenset({'iphone'}),1
+0.1744186046511628,frozenset({'look'}),1
+0.16279069767441862,frozenset({'going'}),1
+0.16279069767441862,frozenset({'color'}),1
+0.16279069767441862,frozenset({'like'}),1
+0.16279069767441862,frozenset({'phone'}),1
+0.16279069767441862,frozenset({'model'}),1
+0.1511627906976744,frozenset({'got'}),1
+0.1511627906976744,frozenset({'apple'}),1
+0.12790697674418605,frozenset({'pro'}),1
+0.11627906976744186,frozenset({'also'}),1
+0.11627906976744186,frozenset({'let'}),1
+0.11627906976744186,frozenset({'case'}),1
+0.10465116279069768,frozenset({'one'}),1
+0.10465116279069768,frozenset({'black'}),1
+0.10465116279069768,frozenset({'device'}),1
+0.10465116279069768,frozenset({'little'}),1
+0.10465116279069768,frozenset({'new'}),1
+0.10465116279069768,frozenset({'obviously'}),1
+0.09302325581395349,frozenset({'plus'}),1
+0.09302325581395349,frozenset({'thing'}),1
+0.09302325581395349,frozenset({'kind'}),1
+0.09302325581395349,frozenset({'feel'}),1
+0.09302325581395349,frozenset({'bit'}),1
+0.09302325581395349,frozenset({'actually'}),1
+0.08139534883720931,frozenset({'button'}),1
+0.08139534883720931,frozenset({'know'}),1
+0.08139534883720931,frozenset({'form'}),1
+0.08139534883720931,frozenset({'identical'}),1
+0.08139534883720931,"frozenset({'new', 'iphone'})",2
+0.08139534883720931,"frozenset({'like', 'look'})",2
+0.08139534883720931,frozenset({'sometimes'}),1
+0.06976744186046512,"frozenset({'iphone', 'got'})",2
+0.06976744186046512,frozenset({'charge'}),1
+0.06976744186046512,"frozenset({'form', 'factor'})",2
+0.06976744186046512,"frozenset({'little', 'bit'})",2
+0.06976744186046512,frozenset({'would'}),1
+0.06976744186046512,"frozenset({'iphone', 'look'})",2
+0.06976744186046512,frozenset({'factor'}),1
+0.06976744186046512,frozenset({'get'}),1
+0.06976744186046512,frozenset({'height'}),1
+0.06976744186046512,frozenset({'way'}),1
+0.06976744186046512,frozenset({'almost'}),1
+0.06976744186046512,frozenset({'course'}),1
+0.06976744186046512,frozenset({'looking'}),1
+0.06976744186046512,frozenset({'material'}),1
+0.06976744186046512,frozenset({'well'}),1
+0.06976744186046512,frozenset({'max'}),1
+0.05813953488372093,frozenset({'actual'}),1
+0.05813953488372093,frozenset({'later'}),1
+0.05813953488372093,frozenset({'layout'}),1
+0.05813953488372093,frozenset({'drop'}),1
+0.05813953488372093,frozenset({'existing'}),1
+0.05813953488372093,frozenset({'different'}),1
+0.05813953488372093,frozenset({'used'}),1
+0.05813953488372093,frozenset({'much'}),1
+0.05813953488372093,frozenset({'section'}),1
+0.05813953488372093,"frozenset({'like', 'color'})",2
+0.05813953488372093,"frozenset({'later', 'case'})",2
+0.05813953488372093,"frozenset({'black', 'kind'})",2
+0.05813953488372093,"frozenset({'black', 'color'})",2
+0.05813953488372093,"frozenset({'got', 'also'})",2
+0.05813953488372093,"frozenset({'iphone', 'let'})",2
+0.05813953488372093,"frozenset({'phone', 'look'})",2
+0.05813953488372093,"frozenset({'pro', 'model'})",2

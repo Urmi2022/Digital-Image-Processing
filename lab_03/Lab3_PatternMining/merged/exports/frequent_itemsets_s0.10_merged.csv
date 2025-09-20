@@ -1,0 +1,10 @@
+support,itemsets,length
+0.24798464491362765,frozenset({'iphone'}),1
+0.17236084452975048,frozenset({'phone'}),1
+0.16660268714011517,frozenset({'apple'}),1
+0.13397312859884836,frozenset({'like'}),1
+0.11785028790786949,frozenset({'new'}),1
+0.11785028790786949,frozenset({'year'}),1
+0.11516314779270634,frozenset({'pro'}),1
+0.11055662188099807,frozenset({'camera'}),1
+0.10326295585412668,frozenset({'look'}),1

@@ -1,0 +1,21 @@
+support,itemsets,length
+0.24771734815402938,frozenset({'iphone'}),1
+0.17268757443429933,frozenset({'phone'}),1
+0.16712981341802302,frozenset({'apple'}),1
+0.13298928146089717,frozenset({'like'}),1
+0.12187375942834458,frozenset({'year'}),1
+0.1183009130607384,frozenset({'new'}),1
+0.1147280666931322,frozenset({'pro'}),1
+0.11274315204446209,frozenset({'camera'}),1
+0.10083366415244145,frozenset({'look'}),1
+0.07502977371973005,frozenset({'every'}),1
+0.06709011512504963,frozenset({'button'}),1
+0.06510520047637952,frozenset({'samsung'}),1
+0.06470821754664549,frozenset({'get'}),1
+0.06351726875744343,frozenset({'still'}),1
+0.06312028582770941,frozenset({'max'}),1
+0.06272330289797538,"frozenset({'year', 'every'})",2
+0.05795950774116713,"frozenset({'max', 'pro'})",2
+0.056768558951965066,frozenset({'design'}),1
+0.05279872965462485,"frozenset({'like', 'look'})",2
+0.05240174672489083,frozenset({'one'}),1

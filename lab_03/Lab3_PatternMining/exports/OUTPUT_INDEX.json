@@ -1,0 +1,12 @@
+{
+  "paths": {
+    "comments": "D:\\project\\lab_03\\Lab3_PatternMining\\comments",
+    "captions": "D:\\project\\lab_03\\Lab3_PatternMining\\captions",
+    "merged": "D:\\project\\lab_03\\Lab3_PatternMining\\merged"
+  },
+  "notes": [
+    "All frequent itemsets and association rules CSVs (if mlxtend available) are under each dataset's 'exports' folder.",
+    "All figures are saved under each dataset's 'figures' folder.",
+    "Reflection template placed under Lab3_PatternMining/reports/."
+  ]
+}

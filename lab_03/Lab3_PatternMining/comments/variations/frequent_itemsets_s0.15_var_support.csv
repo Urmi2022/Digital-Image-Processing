@@ -1,0 +1,4 @@
+support,itemsets,length
+0.24771734815402938,frozenset({'iphone'}),1
+0.17268757443429933,frozenset({'phone'}),1
+0.16712981341802302,frozenset({'apple'}),1
