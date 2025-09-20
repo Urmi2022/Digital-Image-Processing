@@ -1,0 +1,41 @@
+{
+  "chunk_sizes": [
+    613,
+    613,
+    613,
+    612,
+    612
+  ],
+  "selected_unigrams": [
+    "iphone",
+    "phone",
+    "apple",
+    "like",
+    "year"
+  ],
+  "selected_pairs": [
+    [
+      "every",
+      "year"
+    ],
+    [
+      "max",
+      "pro"
+    ],
+    [
+      "like",
+      "look"
+    ],
+    [
+      "iphone",
+      "phone"
+    ],
+    [
+      "iphone",
+      "like"
+    ]
+  ],
+  "exports_dir": "D:\\project\\lab_04\\Lab3_Incremental_PatternMining\\exports",
+  "figures_dir": "D:\\project\\lab_04\\Lab3_Incremental_PatternMining\\figures",
+  "reports_dir": "D:\\project\\lab_04\\Lab3_Incremental_PatternMining\\reports"
+}
