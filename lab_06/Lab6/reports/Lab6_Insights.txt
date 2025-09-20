@@ -1,0 +1,9 @@
+Lab 6 — Insight Statements
+Generated on: 2025-09-01T23:20:03
+
+1. Overlap between comments and captions (Top 20 keywords) is 8 terms (25.0%), indicating moderate thematic alignment.
+2. Comment-only top keywords (sample): back, camera, design; Caption-only top keywords (sample): bit, black, case.
+3. Sentiment: comments are 40.2% positive vs 15.9% negative; captions are 100.0% positive vs 0.0% negative.
+4. Top bigrams — comments: pro max, look like, every year; captions: little bit, pro model, form factor.
+5. In comments, 'first' rose the most from the first half to the second half.
+6. In captions, 'iphone' rose the most from the first half to the second half.
